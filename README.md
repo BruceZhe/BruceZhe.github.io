@@ -1,4 +1,4 @@
-#魔镜啊魔镜，谁是世界上最帅的人
+#魔镜啊魔镜，谁是
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/BruceZhe/BruceZhe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
